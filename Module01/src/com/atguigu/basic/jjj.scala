@@ -6,5 +6,7 @@ package com.atguigu.basic
   */
 class jjj {
 
-  def add()={}
+  def add()={
+    println("sss")
+  }
 }
